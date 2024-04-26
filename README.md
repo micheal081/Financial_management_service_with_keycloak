@@ -1,5 +1,7 @@
 # Financial Management Service With KeyCloak
 
+The financial management backend application, crafted with Node.js, Nest.js, and TypeScript, leverages Keycloak for robust security. It seamlessly handles financial operations, ensuring data integrity and confidentiality. Key features include user authentication, role-based access control, and encrypted data transmission. With a scalable architecture, it offers seamless integration with other systems and services. This backend solution empowers businesses with efficient financial management capabilities while prioritizing security and compliance.
+
 # Getting started
 
 ## Installation
